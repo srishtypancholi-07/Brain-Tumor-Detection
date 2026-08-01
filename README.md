@@ -117,6 +117,13 @@ The model is built on **MobileNetV2**, pre-trained on ImageNet, using Transfer L
 | Meningioma | 0.84 | 0.90 | 0.87 |
 | No Tumor | 0.94 | 0.99 | 0.96 |
 | Pituitary | 0.95 | 0.98 | 0.97 |
+### 🔀 Confusion Matrix
+
+<div align="center">
+
+![Confusion Matrix](confusion_matrix.png)
+
+</div>
 ## 📉 Training Graphs
 
 <div align="center">
