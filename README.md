@@ -117,16 +117,17 @@ The model is built on **MobileNetV2**, pre-trained on ImageNet, using Transfer L
 | Meningioma | 0.84 | 0.90 | 0.87 |
 | No Tumor | 0.94 | 0.99 | 0.96 |
 | Pituitary | 0.95 | 0.98 | 0.97 |
-
-### 📉 Training Graphs
+## 📉 Training Graphs
 
 <div align="center">
 
-*Add training accuracy and loss plots here (e.g. `assets/accuracy.png`, `assets/loss.png`)*
+### Training vs Validation Accuracy
+![Accuracy Plot](assets/accuracy_plot.png)
+
+### Training vs Validation Loss
+![Loss Plot](assets/loss_plot.png)
 
 </div>
-
----
 
 ## 🛠️ Technologies Used
 
