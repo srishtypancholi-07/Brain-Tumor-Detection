@@ -142,20 +142,24 @@ The model is built on **MobileNetV2**, pre-trained on ImageNet, using Transfer L
 
 ---
 
-## 📁 Project StructureBrain-Tumor-Detection/
+## 📁 Project Structure
+
+```
+Brain-Tumor-Detection/
 │
-├── train.py # Train custom CNN model
-├── train_mobilenet.py # Train MobileNetV2 model
-├── evaluate.py # Evaluate CNN model
-├── evaluate_mobilenet.py # Evaluate MobileNetV2 model
-├── predict.py # Run inference on new MRI images
-├── plot_history.py # Plot training accuracy/loss curves
-├── check_dataset.py # Validate dataset structure
-├── brain_tumor_detection.py # Core utilities/model definitions
-├── test.jpg # Sample test image
+├── train.py                   # Train custom CNN model
+├── train_mobilenet.py         # Train MobileNetV2 model
+├── evaluate.py                # Evaluate CNN model
+├── evaluate_mobilenet.py      # Evaluate MobileNetV2 model
+├── predict.py                 # Run inference on new MRI images
+├── plot_history.py            # Plot training accuracy/loss curves
+├── check_dataset.py           # Validate dataset structure
+├── brain_tumor_detection.py   # Core utilities/model definitions
+├── test.jpg                   # Sample test image
 ├── .gitignore
 ├── README.md
-└── models/ # Saved trained models---
+└── models/                    # Saved trained models
+```-
 
 ## 🚀 Installation & Usage
 
