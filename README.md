@@ -122,10 +122,10 @@ The model is built on **MobileNetV2**, pre-trained on ImageNet, using Transfer L
 <div align="center">
 
 ### Training vs Validation Accuracy
-![Accuracy Plot](assets/accuracy_plot.png)
+![Accuracy Plot](accuracy_plot.png)
 
 ### Training vs Validation Loss
-![Loss Plot](assets/loss_plot.png)
+![Loss Plot](loss_plot.png)
 
 </div>
 
